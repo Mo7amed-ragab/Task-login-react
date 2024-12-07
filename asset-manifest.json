@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-login-react/static/css/main.4f1f3478.css",
+    "main.js": "/Task-login-react/static/js/main.c709efe6.js",
+    "static/js/453.2aac1a6b.chunk.js": "/Task-login-react/static/js/453.2aac1a6b.chunk.js",
+    "index.html": "/Task-login-react/index.html",
+    "main.4f1f3478.css.map": "/Task-login-react/static/css/main.4f1f3478.css.map",
+    "main.c709efe6.js.map": "/Task-login-react/static/js/main.c709efe6.js.map",
+    "453.2aac1a6b.chunk.js.map": "/Task-login-react/static/js/453.2aac1a6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f1f3478.css",
+    "static/js/main.c709efe6.js"
+  ]
+}
